@@ -4,10 +4,6 @@
 
 This is a repository for a FullStack Twitter clone tutorial using React, NextJS, TailwindCSS & Prisma.
 
-[VIDEO TUTORIAL](https://www.youtube.com/watch?v=ytkG7RT6SvU)
-
-[DOCKER VERSION by mandeepsingh10](https://github.com/mandeepsingh10/chwitter)
-
 We are going to learn funcionalities such as:
 
 - Authentication system
@@ -29,13 +25,13 @@ We are going to learn funcionalities such as:
 ### Cloning the repository
 
 ```shell
-git clone https://github.com/AntonioErdeljac/twitter-clone.git
+git clone https://github.com/anhtudo97/next-twitter.git
 ```
 
 ### Install packages
 
 ```shell
-npm i
+yarn
 ```
 
 ### Setup .env file
@@ -49,7 +45,7 @@ NEXTAUTH_SECRET=
 ### Start the app
 
 ```shell
-npm run dev
+yarn dev
 ```
 
 ## Available commands
